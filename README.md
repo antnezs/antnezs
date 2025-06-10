@@ -8,7 +8,6 @@ Cursando o 3° do Ensino Médio Técnico em Des. de Sistemas
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=antness-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=antness-s&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antness-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🔝 Contribuições
