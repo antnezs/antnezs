@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# Sobre mim:
 Cursando o 3° do Ensino Médio Técnico em Des. de Sistemas
 
 
