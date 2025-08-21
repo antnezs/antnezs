@@ -3,6 +3,7 @@
     <td>
 
 <h1>Sobre mim:</h1>
+<p>🥈 2° Lugar - Desafio da Educação Profissional e Tecnológica do Paraná<p>
 <p>Cursando o 3° do Ensino Médio Técnico em Des. de Sistemas</p>
 
 <h2>🌐 Socials:</h2>
